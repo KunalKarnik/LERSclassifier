@@ -1,0 +1,9 @@
+< a a a d >
+[ Capacity Noise Size Quality ]
+two - compact high
+four * * high
+? medium medium low
+* low compact low
+four ? medium high
+- medium full low
+five low full high
